@@ -1,4 +1,4 @@
-# Studying various network(graph) embedding tasks
+# Studying various network(graph) embedding methods
 
 ### Introduction
 
