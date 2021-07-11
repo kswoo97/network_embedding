@@ -4,6 +4,7 @@
 
 - Used numpy in implementing
 - Used Karate network(Zachary, W. W. (1977). "An Information Flow Model for Conflict and Fission in Small Groups". Journal of Anthropological Research.)
+- For LINE algorithm, foolball data(T.S. Evans. (2010). "Clique Graphs and Overlapping Communities") was also used.
 - Jupyter notebooks show the result of the algorithm
 
 ### Source papers
